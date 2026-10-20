@@ -9,5 +9,5 @@ Course materials for **Methods 1 – Logic** at the University of Tübingen (*wi
 
 | # | Date | Topic | Slides | Reading | Supplementary |
 |---|------|-------|--------|---------|---------------|
-| 1 | 20.10. | Course overview; set theory | [pdf](slides/lecture1.pdf) | [Sets, relations, functions](https://michael-franke.github.io/logic-materials/01-handouts/01-handout_sets-relations-functions.pdf) | [materials 🔒](LINK-HERE) |
-| 2 | 27.10. | TBA | | | |
+| 1 | 20.10. | Course overview; set theory | [pdf](slides/lecture1.pdf) | [Sets theory](readings/sets.pdf) | [materials 🔒](LINK-HERE) |
+| 2 | 27.10. | Relations and functions | | [Relations/Functions](readings/relations.pdf) | |
