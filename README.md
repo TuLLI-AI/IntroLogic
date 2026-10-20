@@ -22,3 +22,9 @@ on what's covered in the main readings*).
 | 2 | 27.10. | Relations and functions | [pdf](slides/lecture2.pdf)  | [Relations/Functions](readings/relations.pdf) | [more on functions 🔒](https://drive.proton.me/urls/PTY1SQW5XR#UturngHAsQVx) [more on relations 🔒](https://drive.proton.me/urls/DT1BV02KFW#l6YY8yFiMmFX) | |
 | 3 | 3.11. | Propositional Logic 1 | | [Propositional Logic Intro](readings/prop_logic1.pdf) | [logic/proofs 🔒](https://drive.proton.me/urls/TT83VE1GJR#cXSAkuHl1O61)  | |
 | 4 | 3.11. | Propositional Logic 2 | | [Propositional Logic: Semantics](readings/prop_logic2.pdf) |  | |
+
+## Tutor sessions 
+
+[**with Aida**] Thursdays,12:00-14:00, [**Alte Frauenklinik**] (Schleichstraße 4, 72076 Tübingen, room 4329) 
+
+[**with Amit**] Fridays, 12:00-14:00, **same location as class**
