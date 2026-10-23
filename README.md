@@ -1,4 +1,4 @@
-# Intro to Logic
+# Introduction to Discrete Methods and Logic
 
 Course materials for **Methods 1 – Logic** at the University of Tübingen (*winter semester 2026/2027*).
 
