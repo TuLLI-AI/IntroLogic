@@ -2,6 +2,8 @@
 
 Course materials for **Methods 1 – Logic** at the University of Tübingen (*winter semester 2026/2027*).
 
+In this course, we will be covering the basics of symbolic logic and related mathematical techniques for building and using logics (e.g., set theory, theory of relations and functions, proof techniques). Thus, we will cover the kinds of topics typically encountered in a first-year discrete mathematics course. Students are expected to follow the weekly readings and (optional) homework assignments, attend the lectures, and, if needed, the weekly tutor sessions. Course evaluation is exam-based: students will be graded on two in-class exams (each contributing 50% to the final grade). 
+
 **Lecturer:** [Kyle Richardson](https://www.krichardson.me/)
 **Time and location:** Tuesdays 14:00–16:00, Hörsaal 0.02 (VG Wilhelmstraße)
 
