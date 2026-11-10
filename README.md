@@ -24,7 +24,7 @@ on what's covered in the main readings*).
 | 2 | 27.10. | Relations and functions | [pdf](slides/lecture2.pdf)  | [Relations/Functions](readings/relations.pdf) | [more on functions 🔒](https://drive.proton.me/urls/PTY1SQW5XR#UturngHAsQVx) [more on relations 🔒](https://drive.proton.me/urls/DT1BV02KFW#l6YY8yFiMmFX) | [exercises](homework/homework_2.pdf) |
 | 3 | 3.11. | Propositional Logic 1 | [pdf](slides/lecture3.pdf)  | [Propositional Logic Intro](readings/prop_logic1.pdf) | [logic/proofs 🔒](https://drive.proton.me/urls/TT83VE1GJR#cXSAkuHl1O61)  | |
 | 4 | 10.11. | Propositional Logic 2 | [pdf](slides/lecture4.pdf) | [Propositional Logic: Semantics](readings/prop_logic2.pdf) |  | |
-| 5 | 17.11. | Predicate Logic 2 | | [Predicate Logic](readings/predicate_logic.pdf) |  | |
+| 5 | 17.11. | Predicate Logic 2 | | [Predicate Logic](readings/predicate_logic.pdf) | [quantified logic 🔒](https://drive.proton.me/urls/4V0JSMJSDG#vhNAnL306kFw) | |
 
 ## Tutor sessions 
 
